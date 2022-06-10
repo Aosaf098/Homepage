@@ -72,10 +72,12 @@ h3 {
 }
 .Exp {
   height: 1200px;
+  width: 1200px;
 }
 #LWP {
   text-align: center;
   margin-top: 400px;
+  margin-left: 170px;
   height: 650px;
   font-weight: bolder;
 }
@@ -156,10 +158,14 @@ h3 {
   margin-left: 13px;
   font-size: 18px;
 }
+.links{
+  width: 180px;
+}
 
 #LWPLinks {
   text-align: center;
-  margin-left: -20px;
+  margin-left: 550px;
+  
 }
 .Lower2 {
   margin-left: 140px;
@@ -244,8 +250,8 @@ h3 {
 .tab {
   border: 2px solid black;
   border-collapse: collapse;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 75px;
+   
   margin-bottom: 15px;
   width: 450px;
 }
