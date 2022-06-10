@@ -82,6 +82,9 @@ h3 {
 #L {
   color: blueviolet;
 }
+#Li {
+  color: blueviolet;
+}
 
 .Lower1 {
   margin-left: 10%;
@@ -251,4 +254,9 @@ td {
   padding: 5px;
   border-spacing: 10px;
   text-align: center;
+}
+.script {
+  text-align: left;
+  font-size: 12px;
+  margin-left: -350px;
 }
