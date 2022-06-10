@@ -159,12 +159,17 @@ h3 {
   font-size: 18px;
 }
 .links{
-  width: 180px;
+  display: flex;
+  justify-content: center;
+  margin-left: -150px;
+  
 }
 
 #LWPLinks {
   text-align: center;
-  margin-left: 550px;
+  display: flex;
+  justify-content: center;
+  margin-left: 150px;
   
 }
 .Lower2 {
@@ -248,12 +253,12 @@ h3 {
   text-align: center;
 }
 .tab {
-  border: 2px solid black;
-  border-collapse: collapse;
-  margin-left: 75px;
    
+  border-collapse: collapse;
+  display: flex;
+  justify-content: center;
   margin-bottom: 15px;
-  width: 450px;
+  width: auto;
 }
 th,
 td {
